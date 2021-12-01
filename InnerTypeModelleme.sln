@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InnerTypeModelleme", "InnerTypeModelleme\InnerTypeModelleme.csproj", "{F7AAFC94-4BE7-4367-9D80-8FD0AC9DDC90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7AAFC94-4BE7-4367-9D80-8FD0AC9DDC90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7AAFC94-4BE7-4367-9D80-8FD0AC9DDC90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7AAFC94-4BE7-4367-9D80-8FD0AC9DDC90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7AAFC94-4BE7-4367-9D80-8FD0AC9DDC90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {151454EA-576C-4A27-A836-2F9EC7734361}
+	EndGlobalSection
+EndGlobal
